@@ -1,4 +1,4 @@
-class Solution {
+class POTD19 {
     private static boolean isWithinBounds(int row, int col, int numRows, int numCols) {
         return row >= 0 && row < numRows && col >= 0 && col < numCols;
     }
