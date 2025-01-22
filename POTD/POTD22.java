@@ -1,4 +1,4 @@
-class Solution {
+class POTD22 {
     public int[][] highestPeak(int[][] isWater) {
         int m = isWater.length;
         int n = isWater[0].length;
