@@ -8,7 +8,9 @@
       and contribute to the field of computer science.
 
 
-    Currntly I'm Improving My Problem Solving Issues through Data Structures Leetcode Problems.
+    Currntly I'm Improving My Problem Solving Skills.
+
+    
   
 
 
